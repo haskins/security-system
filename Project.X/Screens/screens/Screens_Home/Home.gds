@@ -1,0 +1,17 @@
+<golproperties bgcolor="16252928">
+<BTN_Fireworks>
+<path>screens/Screens_Home/BTN_Fireworks.xml</path>
+</BTN_Fireworks>
+<BTN_Temperature>
+<path>screens/Screens_Home/BTN_Temperature.xml</path>
+</BTN_Temperature>
+<BTN_16>
+<path>screens/Screens_Home/BTN_16.xml</path>
+</BTN_16>
+<BTN_Settings>
+<path>screens/Screens_Home/BTN_Settings.xml</path>
+</BTN_Settings>
+<homeText>
+<path>screens/Screens_Home/homeText.xml</path>
+</homeText>
+</golproperties>

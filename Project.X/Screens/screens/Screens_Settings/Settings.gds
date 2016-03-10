@@ -1,0 +1,14 @@
+<golproperties bgcolor="39160">
+<BTN_chngpw>
+<path>screens/Screens_Settings/BTN_chngpw.xml</path>
+</BTN_chngpw>
+<BTN_adduser>
+<path>screens/Screens_Settings/BTN_adduser.xml</path>
+</BTN_adduser>
+<BTN_colour>
+<path>screens/Screens_Settings/BTN_colour.xml</path>
+</BTN_colour>
+<BTN_nothing>
+<path>screens/Screens_Settings/BTN_nothing.xml</path>
+</BTN_nothing>
+</golproperties>

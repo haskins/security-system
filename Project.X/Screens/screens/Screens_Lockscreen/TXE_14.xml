@@ -1,0 +1,23 @@
+<golproperties>
+<scheme>defscheme</scheme>
+<text>Text Entry</text>
+<displayfont memory="Internal">Gentium_16</displayfont>
+<vkeys>3</vkeys>
+<hkeys>3</hkeys>
+<keys>1,2,3,4,5,6,7,8,9</keys>
+<state>
+<list>0</list>
+<list>enabled</list>
+<list>disabled</list>
+</state>
+<visible>
+<list>0</list>
+<list>true</list>
+<list>false</list>
+</visible>
+<bottom>199</bottom>
+<right>204</right>
+<top>39</top>
+<left>24</left>
+<name>TXE_14</name>
+</golproperties>

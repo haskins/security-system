@@ -1,0 +1,6 @@
+_boot: CODE, 7762 0 210
+_main: CODE, 7592 0 170
+__initialization: CODE, 7530 0 4
+_motor: CODE, 7972 0 220
+_initialize: CODE, 7540 0 52
+Total: 656

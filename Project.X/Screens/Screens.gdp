@@ -1,0 +1,14 @@
+<golproperties cdepth="16" hres="239" paletteenabled="0" vres="319">
+<Lockscreen>
+<path>screens/Screens_Lockscreen/Lockscreen.gds</path>
+</Lockscreen>
+<Home>
+<path>screens/Screens_Home/Home.gds</path>
+</Home>
+<Settings>
+<path>screens/Screens_Settings/Settings.gds</path>
+</Settings>
+<Password>
+<path>screens/Screens_Password/Password.gds</path>
+</Password>
+</golproperties>
